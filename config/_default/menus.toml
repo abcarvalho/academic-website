@@ -4,24 +4,55 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
+  name = "Resume"
+  url = "files/abcarvalho_resume.pdf"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Paper"
+  url = "files/abcarvalho_paper.pdf"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Online Appendix"
+  url = "files/abcarvalho_online_app.pdf"
   weight = 30
 
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 40
+
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 50
+
+# [[main]]
+#   name = "Home"
+#   url = "#about"
+#   weight = 10
+
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 20
+
+# [[main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 30
+
+# [[main]]
+#   name = "Publications"
+#   url = "#featured"
+#   weight = 40
+
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "Programming Skills"
+  url = "#programming_skills"
+  weight = 50
+
 
 [[main]]
   name = "Contact"
