@@ -8,18 +8,17 @@ title = "Other Programming Skills"
 subtitle = ""
 
 [[feature]]
-  icon = "matlab-logo"
+  icon = "stata-logo"
   icon_pack = "custom"
-  # name = "Matlab"
-  image_size = "contain" 
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
 
 [[feature]]
-  icon = "stata-logo"
-  icon_pack = "custom"
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "Git"
 
 # [[feature]]
 #   icon = "microsoft"
