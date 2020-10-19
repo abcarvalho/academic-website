@@ -14,7 +14,7 @@ echo " "
 echo "Copying thesis file..."
 fname="abcarvalho_thesis.pdf"
 source_path="$AMDG_REPOS_DIR/dissertation/MasterRM"
-target_path="$AMDG_REPOS_DIR/academic-website/content/publication/paper"
+# target_path="$AMDG_REPOS_DIR/academic-website/static/paper"
 
 cp -i -f $source_path/$fname $target_path/$fname
 echo " "
@@ -23,7 +23,7 @@ echo " "
 echo "Copying Data Analysis file..."
 fname="abcarvalho_data.pdf"
 source_path="$AMDG_REPOS_DIR/dissertation/MasterRM"
-target_path="$AMDG_REPOS_DIR/academic-website/content/publication/paper"
+# target_path="$AMDG_REPOS_DIR/academic-website/content/publication/paper"
 
 cp -i -f $source_path/$fname $target_path/$fname
 echo " "
@@ -32,7 +32,7 @@ echo " "
 echo "Copying Online Appendix file..."
 fname="abcarvalho_online_app.pdf"
 source_path="$AMDG_REPOS_DIR/dissertation/MasterRM"
-target_path="$AMDG_REPOS_DIR/academic-website/content/publication/paper"
+# target_path="$AMDG_REPOS_DIR/academic-website/content/publication/paper"
 
 cp -i -f $source_path/$fname $target_path/$fname
 echo " "
@@ -41,7 +41,7 @@ echo " "
 echo "Copying Slides..."
 fname="abcarvalho_slides.pdf"
 source_path="$AMDG_REPOS_DIR/dissertation/slides" 
-target_path="$AMDG_REPOS_DIR/academic-website/content/publication/paper"
+# target_path="$AMDG_REPOS_DIR/academic-website/content/publication/paper"
 
 cp -i -f $source_path/$fname $target_path/$fname
 echo " "
