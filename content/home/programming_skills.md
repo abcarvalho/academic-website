@@ -27,7 +27,7 @@ subtitle = ""
   icon = "matlab-logo"
   icon_pack = "custom"
   # name = "Matlab"
-  image_size = "contain" 
+  image_size = "contain"
 
 
 +++
