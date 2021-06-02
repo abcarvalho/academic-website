@@ -1,5 +1,6 @@
 ---
-title: "Corporate Debt Standardization and The Rise of Electronic Bond Trading"
+title: Corporate Debt Standardization and The Rise of Electronic Bond Trading
+
 authors:
 - admin
 date: "2020-09-01T00:00:00Z"
@@ -17,10 +18,14 @@ publication_types: ["7"]
 # Publication name and optional abbreviated publication name.
 # publication: In *Source Themes Conference*
 # publication_short: In *STC*
-abstract: I study the impact of standardization on secondary corporate bond markets as the industry adopts electronic trading systems. I show that covenants can reduce debt rollover costs by mitigating agency problems. However, when trading in the more liquid electronic markets is restricted to standardized securities, firms must weigh the benefits of offering credit protection against e-trading’s lower transaction costs. I investigate firms' choices of leverage and debt type when creditors are not fully informed about their risk exposures nor their hedging policies. In such cases, riskier firms can have an incentive to misrepresent their types to benefit shareholders, which raises debt rollover costs for safer firms. Safer firms react by adjusting their leverage, either to signal their credit-worthiness and force separation, or to reflect the less favorable funding conditions in a pooling equilibrium. Alternatively, safe companies can signal their type by issuing bonds with debt protective covenants, leading to a separating equilibrium with a hybrid market structure, where safe bonds trade over-the-counter. I show that this is the case when the liquidity differential between over-the-counter and electronic markets is sufficiently low and risky types optimally choose not to hedge their exposure to their idiosyncratic risk in equilibrium.
+abstract: |
+  <p style="width:750px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify:inter-word;">
+  I study the impact of standardization on secondary corporate bond markets as the industry adopts electronic trading systems. I show that covenants can reduce debt rollover costs by mitigating agency problems. However, when trading in the more liquid electronic markets is restricted to standardized securities, firms must weigh the benefits of offering credit protection against e-trading’s lower transaction costs. I investigate firms' choices of leverage and debt type when creditors are not fully informed about their risk exposures nor their hedging policies. In such cases, riskier firms can have an incentive to misrepresent their types to benefit shareholders, which raises debt rollover costs for safer firms. Safer firms react by adjusting their leverage, either to signal their credit-worthiness and force separation, or to reflect the less favorable funding conditions in a pooling equilibrium. Alternatively, safe companies can signal their type by issuing bonds with debt protective covenants, leading to a separating equilibrium with a hybrid market structure, where safe bonds trade over-the-counter. I show that this is the case when the liquidity differential between over-the-counter and electronic markets is sufficiently low and risky types optimally choose not to hedge their exposure to their idiosyncratic risk in equilibrium. </p>
 
 # Summary. An optional shortened abstract.
-summary: I develop a structural credit risk model where covenants arise endogenously as a means to signal a firm's credit-worthiness. I show that, when trading in the more liquid electronic markets is restricted to standardized securities, firms must weigh the benefits of offering credit protection against e-trading’s lower transaction costs. 
+summary: |
+  <p style="width:780px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify:inter-word;">
+  I develop a structural credit risk model where covenants arise endogenously as a means to signal a firm's credit-worthiness. I show that, when trading in the more liquid electronic markets is restricted to standardized securities, firms must weigh the benefits of offering credit protection against e-trading’s lower transaction costs. </p>
 
 
 tags:
