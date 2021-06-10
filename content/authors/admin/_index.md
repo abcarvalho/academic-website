@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Economics
+role: PhD in Economics
 
 # Organizations/Affiliations
 organizations:
@@ -86,7 +86,7 @@ user_groups:
 ---
 
 <p style="width: 700px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify: inter-word;">
-I am a PhD candidate in economics at the University of Chicago. My research interests in Economics and Finance include financial markets' microstructure, liquidity, and asset pricing in general. For my interests in topics of International Security, see <a href="#defense">below</a>.</p>
+I am a PhD in Economics from the University of Chicago. My research interests in Economics and Finance include financial markets' microstructure, liquidity, and asset pricing in general. For my interests in topics of International Security, see <a href="#defense">below</a>.</p>
 
 <h3 style="font-size:2rm;">Interests</h3>
 <p style="width: 700px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify: inter-word;"> Financial Markets' Microstructure, Derivative Markets' Reforms, Liquidity Risk, Asset Pricing</p>
