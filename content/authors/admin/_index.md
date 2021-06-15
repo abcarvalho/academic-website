@@ -73,7 +73,6 @@ user_groups:
 - Researchers
 - Visitors
 
-
 # {{<spoiler style="line-height:.8; font-size:0.9rem;" text="[Prof. Pietro Veronesi](https://www.chicagobooth.edu/faculty/directory/v/pietro-veronesi) (chair)">}}
 #   * <pietro.veronesi@chicagobooth.edu>
 # {{< /spoiler >}}
@@ -83,13 +82,21 @@ user_groups:
 # {{<spoiler style="line-height:.8; font-size:0.9rem;" text="[Prof. Yueran Ma](https://voices.uchicago.edu/yueranma/)">}}
 #   * <yueran.ma@chicagobooth.edu>
 # {{< /spoiler >}}
+
+advanced:
+  # Custom CSS
+  css_style: "text-align: justify;"
+  width: 70%
+
+
+# <p style="width: 700px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify: inter-word;"> ... </p>
+# <p style="width: 700px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify: inter-word;"> ... </p>
 ---
 
-<p style="width: 700px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify: inter-word;">
-I am a PhD in Economics from the University of Chicago. My research interests in Economics and Finance include financial markets' microstructure, liquidity, and asset pricing in general. For my interests in topics of International Security, see <a href="#defense">below</a>.</p>
+I am a PhD in Economics from the University of Chicago. My research interests in Economics and Finance include financial markets' microstructure, liquidity, and asset pricing in general. For my interests in topics of International Security, see <a href="#defense">below</a>.
 
 <h3 style="font-size:2rm;">Interests</h3>
-<p style="width: 700px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify: inter-word;"> Financial Markets' Microstructure, Derivative Markets' Reforms, Liquidity Risk, Asset Pricing</p>
+ Financial Markets' Microstructure, Derivative Markets' Reforms, Liquidity Risk, Asset Pricing
 
 
 
